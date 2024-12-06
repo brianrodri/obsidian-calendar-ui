@@ -15,8 +15,6 @@
     "test:watch": "yarn test -- --watch"
   },
   "dependencies": {
-    "@popperjs/core": "2.9.2",
-    "@popperjs/svelte": "0.1.1",
     "obsidian-daily-notes-interface": "0.9.2",
     "svelte": "3.37.0",
     "svelte-portal": "2.1.2",
